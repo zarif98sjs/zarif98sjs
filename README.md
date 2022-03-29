@@ -26,7 +26,7 @@ Find everything related to my undergrad academic life here
   🌟 [*`The Hitchhiker's Guide to Linear Algebra`*](https://zarif98sjs.github.io/mindcraft/LA/) ♾️ 
 
 
-## 🛠️ **`My Tech`**
+## 🛠️ ***My Tech***
 
 
 ![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=&)
@@ -52,7 +52,7 @@ Find everything related to my undergrad academic life here
 ![Ubuntu](https://img.shields.io/static/v1?&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 
 
-## 📈 **`GitHub Stats`**
+## 📈 ***GitHub Stats***
 
 <p align="center">
 <a align="left" href="https://github.com/zarif98sjs">
