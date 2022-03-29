@@ -1,6 +1,6 @@
 ~ Hello good hooman 👋
 
-I'm  Zarif, currenly a final year undergrad student (well, *almost*) also working as a part time Software Developer at ICT Cell, BUET. 
+I'm  Zarif, currenly a final year (well, *almost*) CS undergrad student, also working as a part time Software Developer at ICT Cell, BUET. 
 
 - 🔭 I’m currently working on ***Django Rest Framework***, ***Biomedical Data Segmentation*** and ***3D Sensor Fusion***.
 - 🌱 I’m currently learning ***Graph Database*** & ***Graph Neural Networks***, also mastering ***Reinforcemnet Learning***
