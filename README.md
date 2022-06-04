@@ -1,11 +1,11 @@
 ~ Hello good hooman 👋
 
-I'm  Zarif, currenly a final year (well, *almost*) CS undergrad student, also working as a part time Software Developer at ICT Cell, BUET. 
+I'm  Zarif, currenly a final year CS undergrad student, also working as a part time Software Developer at ICT Cell, BUET. 
 
-- 🔭 I’m currently working on ***Django Rest Framework***, ***Biomedical Data Segmentation*** and ***3D Sensor Fusion***.
-- 🌱 I’m currently learning ***Graph Database*** & ***Graph Neural Networks***, also mastering ***Reinforcemnet Learning***
+- 🔭 I’m currently working on ***Django Rest Framework***, ***Biomedical Data Segmentation*** and ***Multimodal Deep Learning***
+- 🌱 I’m currently learning ***Graph Database*** & ***Graph Neural Networks***
 - 💼 I'm currently looking for part time ***Software Engineering*** or ***Machine Learning Engineering*** opportunities
-- ⚡ Fun Fact : I love ***teaching***, I plan to teach a core CS course that will be one of a kind with its unique teaching and evaluation. I love ***travelling*** , my ultimate plan is to travel the whole world within 40.
+- ⚡ Fun Fact : I love ***teaching*** and ***travelling*** , my plan is to travel the whole world within 40. Next up is ***Annapurna Base Camp Trek*** 🏞️
 - 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purpose, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟
 
 
