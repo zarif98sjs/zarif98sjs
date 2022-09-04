@@ -31,7 +31,7 @@ Find everything related to my undergrad academic life here
 
 ![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=&)
 ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
-![Python](https://img.shields.io/static/v1?&message=Python&color=f4ff19&logo=python&logoColor=0768a8&label=&)
+![Python](https://img.shields.io/static/v1?&message=Python&color=000000&logo=python&logoColor=c9e307&label=&)
 ![C Sharp](https://img.shields.io/static/v1?&message=C+Sharp&color=2d07ad&logo=C+Sharp&logoColor=bb07ad&label=)
 ![Go](https://img.shields.io/static/v1?&message=Go&color=264294&logo=Go&label=)
 
