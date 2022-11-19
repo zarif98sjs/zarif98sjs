@@ -2,11 +2,16 @@
 
 I'm  Zarif, currenly a final year CS undergrad student, also working as a part time Software Developer at ICT Cell, BUET. 
 
-- 🔭 I’m currently working on ***Django Rest Framework***, ***Biomedical Data Segmentation*** and ***Multimodal Deep Learning***
+- 🔭 I’m currently working on ***Django Rest Framework***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
 - 🌱 I’m currently learning ***Graph Database*** & ***Graph Neural Networks***
 - 💼 I'm currently looking for part time ***Software Engineering*** or ***Machine Learning Engineering*** opportunities
-- ⚡ Fun Fact : I love ***teaching*** and ***travelling*** , my plan is to travel the whole world within 40. Next up is ***Annapurna Base Camp Trek*** 🏞️
-- 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purpose, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟
+- ⚡ Fun Fact : I love ***teaching*** and ***travelling*** , my plan is to travel the whole world within 40. Next up is <s>***Annapurna Base Camp Trek*** 🏞️ </s> Turkey!
+- 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purpose, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
+
+If you like my work, you can also support me by buying me one coffee at a time!
+<p align="center">
+<a href="https://www.buymeacoffee.com/zarif98sjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 
 
 ## 📚 ***Academics***
