@@ -4,7 +4,7 @@ I'm  Zarif, currenly a final year CS undergrad student, also working as a part t
 
 - 🔭 I’m currently working on ***Django Rest Framework***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
 - 🌱 I’m currently learning ***Graph Database*** & ***Graph Neural Networks***
-- 💼 I'm currently looking for part time ***Software Engineering*** or ***Machine Learning Engineering*** opportunities
+- 💼 I'm currently looking for full time ***Software Engineering*** or ***Machine Learning Engineering*** opportunities
 - ⚡ Fun Fact : I love ***teaching*** and ***travelling*** , my plan is to travel the whole world within 40. Next up is <s>***Annapurna Base Camp Trek*** 🏞️ </s> Turkey!
 - 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purpose, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
 
