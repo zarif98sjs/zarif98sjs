@@ -1,11 +1,11 @@
 ~ Hello good hooman 👋
 
-I'm  Zarif, currenly a final year CS undergrad student, also working as a part time Software Developer at ICT Cell, BUET. 
+I'm  Zarif, currenly a final year CS undergrad student, <s>also working as a part time Software Developer at ICT Cell, BUET</s> will be starting my career as a Software Engineer this June after I graduate. 
 
-- 🔭 I’m currently working on ***Django Rest Framework***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
-- 🌱 I’m currently learning ***Graph Database*** & ***Graph Neural Networks***
-- 💼 I'm currently looking for full time ***Software Engineering*** or ***Machine Learning Engineering*** opportunities
-- ⚡ Fun Fact : I love ***teaching*** and ***travelling*** , my plan is to travel the whole world within 40. Next up is <s>***Annapurna Base Camp Trek*** 🏞️ </s> Turkey!
+- 🔭 I’m currently working on ***Graph Neural Networks***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
+- 🌱 I’m currently learning ***System Design***, ***Functional Programming*** and ***DevOps***
+- 💼 <s> I'm currently looking for full time ***Software Engineering*** or ***Machine Learning Engineering*** opportunities </s> I am not actively looking for work opportunities as of know, but you can reach out to me if you think I am fit for a role.
+- ⚡ Fun Fact : I love ***teaching*** and ***travelling*** , my plan is to travel the whole world within 40. Next up is <s>***Annapurna Base Camp Trek***</s> Turkey! :mosque:
 - 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purpose, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
 
 If you like my work, you can also support me by buying me one coffee at a time!
