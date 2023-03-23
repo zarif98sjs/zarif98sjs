@@ -59,11 +59,20 @@ Find everything related to my undergrad academic life here
 
 ## 📈 ***GitHub Stats***
 
+
 <p align="center">
 <a align="left" href="https://github.com/zarif98sjs">
-<img alt="zarif98sjs's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=zarif98sjs&show_icons=true&count_private=true&theme=gotham&hide_border=true" /> </a>
+<img alt="zarif98sjs's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=zarif98sjs&show_icons=true&count_private=true&theme=algolia&hide_border=true" /> </a>
 </p>
 <p align="center">
 <a href="https://github.com/zarif98sjs">
-<img alt="zarif98sjs's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif98sjs&langs_count=8&count_private=true&layout=compact&theme=gotham&hide_border=true&hide=css,scss,html" /> </a>
+<img alt="zarif98sjs's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif98sjs&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
 </p>
+
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zarif98sjs&label=Profile%20Views&color=1&icon=8&pretty=true" />
+</a>
+</p>
+
+
