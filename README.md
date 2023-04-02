@@ -4,7 +4,7 @@ I'm  Zarif, currenly a final year CS undergrad student, <s>also working as a par
 
 - 🔭 I’m currently working on ***Graph Neural Networks***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
 - 🌱 I’m currently learning ***System Design***, ***Functional Programming*** and ***DevOps***
-- 💼 <s> I'm currently looking for full time ***Software Engineering*** or ***Machine Learning Engineering*** opportunities </s> I am not actively looking for work opportunities as of know, but you can reach out to me if you think I am fit for a role.
+- 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Software Engineering*/ *ML Engineering*/ *Research Engineering* roles).
 - ⚡ Fun Fact : I love ***teaching*** and ***travelling*** , my plan is to travel the whole world within 40. Next up is <s>***Annapurna Base Camp Trek***</s> Turkey! :mosque:
 - 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purpose, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
 
@@ -44,9 +44,10 @@ Find everything related to my undergrad academic life here
 ![TensorFlow](https://img.shields.io/static/v1?&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![Keras](https://img.shields.io/static/v1?&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
 ![PyTorch](https://img.shields.io/static/v1?&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![Django](https://img.shields.io/static/v1?&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![OpenCV](https://img.shields.io/static/v1?&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
 ![Unity](https://img.shields.io/static/v1?message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
-![Django](https://img.shields.io/static/v1?&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
+
 
 ![Oracle](https://img.shields.io/static/v1?&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
