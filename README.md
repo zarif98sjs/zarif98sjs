@@ -1,6 +1,6 @@
 ~ Hello good hooman 👋
 
-I'm  Zarif, currenly a final year CS undergrad student, <s>also working as a part time Backend Engineer at ICT Cell, BUET</s> will start working as a full time Software Engineer this June after I graduate. 
+I'm  Zarif, currenly working as a Software Engineer (L2) at Chaldal Ltd. 
 
 - 🔭 I’m currently working on ***Graph Neural Networks***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
 - 🌱 I’m currently learning ***System Design***, ***Functional Programming*** and ***DevOps***
