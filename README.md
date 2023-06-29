@@ -1,6 +1,6 @@
 ~ Hello good hooman 👋
 
-I'm  Zarif, currently working as a Software Engineer (ML, Ops) - Level 2 at Chaldal Ltd. 
+I'm  Zarif, currently working as a **Software Engineer (ML & Ops) - Level 2** at Chaldal Ltd. 
 
 - 🔭 I’m currently working on ***Graph Neural Networks***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
 - 🌱 I’m currently learning ***System Design***, ***Functional Programming*** and ***DevOps***
