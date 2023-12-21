@@ -1,9 +1,9 @@
 ~ Hello good hooman 👋
 
-I'm  Zarif, currently working as a **Software Engineer (Machine Learning) - Level 2** at Chaldal Ltd. 
+ I’m Zarif, currently working as a **Machine Learning Engineer** at a Dhaka and California based startup, [Chaldal Ltd.!](https://chaldal.tech/) I am also a **Research Intern** at [Xu Lab, Carnegie Mellon University](https://xulabs.github.io/). I recently graduated from [CSE, BUET](https://cse.buet.ac.bd/). My research interest lies in making machines _see_(Multimodal processing) and _comprehend_(Natural Language Processing) . In particular, I am interested in **language grounding**, **multi-modal learning** and **NLP in low-resource setting**.
 
-- 🔭 I’m currently working on ***Graph Neural Networks***, ***Unsupervised Object Detection*** and ***Multimodal Deep Learning***
-- 🌱 I’m currently learning ***System Design***, ***Functional Programming*** and ***DevOps***
+- 🔭 I’m currently working on ***Multimodal NLP*** 
+- 🌱 I’m currently learning ***System Design*** and ***Functional Programming***
 - 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Software Engineering*/ *ML Engineering*/ *Research Engineering* roles).
 - ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40. Next up is <s>***Annapurna Base Camp Trek***</s> Turkey! :mosque:
 - 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purposes, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
