@@ -16,6 +16,13 @@
 </p>
 <hr/>
 
+## ⌨️ ***Open-source contribution***
+  - [sagorbrur/bnlp](https://github.com/sagorbrur/bnlp): The most popular NLP library for Bengali Language
+  - [AbdullahO/tspdb](https://github.com/AbdullahO/tspdb): A prediction algorithm for time series data from MIT (NeurIPS 2020)
+  - [lightoj-dev/problem-tutorials](https://github.com/lightoj-dev/problem-tutorials): Competitive programming tutorials for LightOJ
+  - [mahdihasnat/MooDown](https://github.com/mahdihasnat/MooDown): A service to clone Moodle accounts
+
+
 ## 📚 ***Academics***
   
 Find everything related to my undergrad academic life here 
