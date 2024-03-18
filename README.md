@@ -1,6 +1,6 @@
 ~ Hello good hooman 👋
 
- I’m Zarif, currently working as a **Machine Learning Engineer** at a Dhaka and California based startup, [Chaldal Ltd.!](https://chaldal.tech/) I am also a **Research Intern** at [Xu Lab, Carnegie Mellon University](https://xulabs.github.io/). I recently graduated from [CSE, BUET](https://cse.buet.ac.bd/). My research interest lies in making machines _see_ (Multimodal processing) and _comprehend_ (Natural Language Processing). In particular, I am interested in **language grounding**, **multi-modal learning** and **NLP in low-resource setting**.
+ I’m Zarif, currently working as a **Machine Learning Engineer (Level 3)** at a Dhaka and California based startup, [Chaldal Ltd.!](https://chaldal.tech/) I am also a **Research Intern** at [Xu Lab, Carnegie Mellon University](https://xulabs.github.io/). I recently graduated from [CSE, BUET](https://cse.buet.ac.bd/). My research interest lies in making machines _see_ (Computer Vision) and _comprehend_ (Natural Language Processing). In particular, I am interested in **language grounding**, **multi-modal learning** and **NLP in low-resource setting**.
 
 - 🔭 I’m currently working on ***Multimodal NLP*** 
 - 🌱 I’m currently learning ***System Design*** and ***Functional Programming***
