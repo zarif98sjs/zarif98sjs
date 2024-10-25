@@ -1,11 +1,13 @@
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 ~ Hello good hooman 👋
 
- I’m Zarif, currently working as a **Machine Learning Engineer (Level 3)** at a Dhaka and California based startup, [Chaldal Ltd.!](https://chaldal.tech/) I am also a **Research Intern** at [Xu Lab, Carnegie Mellon University](https://xulabs.github.io/). I recently graduated from [CSE, BUET](https://cse.buet.ac.bd/). My research interest lies in making machines _see_ (Computer Vision) and _comprehend_ (Natural Language Processing). In particular, I am interested in **language grounding**, **multi-modal learning** and **NLP in low-resource setting**.
+ I’m Zarif, currently a CS PhD student at the [CIIR (Center for Intelligent Information Retrieval)](https://ciir.cs.umass.edu/) lab, [University of Massachusetts Amherst](https://www.cics.umass.edu/). I am advised by Prof. [Hamed Zamani](https://groups.cs.umass.edu/zamani/). Previously I worked as a **Machine Learning Engineer (Level 3)** at a Dhaka and California based startup, [Chaldal Ltd.!](https://chaldal.tech/) I completed my undergrad from [CSE, BUET](https://cse.buet.ac.bd/) and also worked as a **Research Intern** at [Xu Lab, Carnegie Mellon University](https://xulabs.github.io/) during my undergrad. My research interest lies in making machines _see_ (Computer Vision) and _comprehend_ (Natural Language Processing). In particular, I am interested in **language grounding**, **multi-modal learning** and **information retrieval**.
 
-- 🔭 I’m currently working on ***Multimodal NLP*** 
-- 🌱 I’m currently learning ***System Design*** and ***Functional Programming***
-- 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Research Engineer*/ *ML Engineer* roles).
-- ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40. Next up is <s>***Annapurna Base Camp Trek***</s> Turkey! :mosque:
+- 🔭 I’m currently working on ***Video Q&A*** and ***Conversational Search***.
+- 🌱 I’m currently learning ***GPU Programming***.
+- 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Research Internships*/ *Applied Scientist Internships*).
+- ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40 (?). Next up is <s>***Annapurna Base Camp Trek :mount_fuji:***</s>, <s>***Turkey :mosque:***</s>, *Uzbekistan*!
 - 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purposes, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
 
 <p align="center">
