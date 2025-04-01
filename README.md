@@ -1,10 +1,3 @@
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-
-![People killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=People%20killed&query=$.gaza.killed.total&color=black)
-![Children killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Children%20killed&query=$.gaza.killed.children&color=black)
-![Women killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Women%20killed&query=$.gaza.killed.women&color=black)
-![Journalists killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Journalists%20killed&query=$.gaza.killed.press&color=black)
-
 ~ Hello good hooman 👋
 
  I’m Zarif, currently a CS PhD student at the [CIIR (Center for Intelligent Information Retrieval)](https://ciir.cs.umass.edu/) lab, [University of Massachusetts Amherst](https://www.cics.umass.edu/). I am advised by Prof. [Hamed Zamani](https://groups.cs.umass.edu/zamani/). Previously I worked as a **Machine Learning Engineer (Level 3)** at a Dhaka and California based startup, [Chaldal Ltd.!](https://chaldal.tech/) I completed my undergrad from [CSE, BUET](https://cse.buet.ac.bd/) and also worked as a **Research Intern** at [Xu Lab, Carnegie Mellon University](https://xulabs.github.io/) during my undergrad. My research interest lies in making machines _see_ (Computer Vision) and _comprehend_ (Natural Language Processing). In particular, I am interested in **language grounding**, **multi-modal learning** and **information retrieval**.
