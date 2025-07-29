@@ -22,23 +22,6 @@
   - [mahdihasnat/MooDown](https://github.com/mahdihasnat/MooDown): A service to clone Moodle accounts
 
 
-## 📚 ***Academics***
-  
-Find everything related to my undergrad academic life here 
-
-  [![cse-buet-academics](https://img.shields.io/badge/zarif98sjs-cse--buet--academics-red?style=for-the-badge&color=red&logo=GitHub&logoColor=FFFFFF&link=https://github.com/zarif98sjs/cse-buet-academics)](https://github.com/zarif98sjs/cse-buet-academics)
-
-## 🖋️ ***Popular Writeups***
-  
-  🌟 [*`Red Black Tree : An Intuitive Approach`*](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach) 🎴🌳
-
-  🌟 [*`Xv6 Memory Management Walkthrough`*](https://github.com/zarif98sjs/xv6-memory-management-walkthrough) 💽
-
-  🌟 [*`Yet Another C Compiler`*](https://github.com/zarif98sjs/Yet-Another-C-Compiler) 🎯
-
-  🌟 [*`The Hitchhiker's Guide to Linear Algebra`*](https://zarif98sjs.github.io/mindcraft/LA/) ♾️ 
-
-
 ## 🛠️ ***My Tech***
 
 
