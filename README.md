@@ -15,14 +15,6 @@
 - ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40 (?). Next up is <s>***Annapurna Base Camp Trek :mount_fuji:***</s>, <s>***Turkey :mosque:***</s>, *Uzbekistan*!
 - 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purposes, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
 
-<p align="center">
-<b><i>If you like my work, you can also support me by buying me a cup of coffee!</i></b>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zarif98sjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-<hr/>
-
 ## ⌨️ ***Open-source contribution***
   - [sagorbrur/bnlp](https://github.com/sagorbrur/bnlp): The most popular NLP library for Bengali Language
   - [AbdullahO/tspdb](https://github.com/AbdullahO/tspdb): A prediction algorithm for time series data from MIT (NeurIPS 2020)
