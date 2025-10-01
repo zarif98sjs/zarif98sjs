@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning ***GPU Programming***.
 - 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Research Internships*/ *Applied Scientist Internships*).
 - ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40 (?). Next up is <s>***Annapurna Base Camp Trek :mount_fuji:***</s>, <s>***Turkey :mosque:***</s>, *Uzbekistan*!
-- 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 for professional purposes, and if you're tired of professionalism there's always [***messenger***](https://m.me/iamzarif98sjs) 📟.
+- 💬 Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗
 
 ## ⌨️ ***Open-source contribution***
   - [sagorbrur/bnlp](https://github.com/sagorbrur/bnlp): The most popular NLP library for Bengali Language
