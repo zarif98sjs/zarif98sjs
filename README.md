@@ -21,9 +21,12 @@
 <br/>
 <br/>
 <a href="https://youtu.be/Xofo8H4O5N8">
-  <img src="mujhe_tum_nazar_se.jpg" alt="sigh" width=300>
+  <img src="mujhe_tum_nazar_se.jpg" alt="sigh" width=250>
 </a>
  <a href="https://youtu.be/ZUQoFmTUw08">
-  <img src="bhool.jpg" alt="sigh" width=300>
+  <img src="bhool.jpg" alt="sigh" width=250>
+</a>
+  <a href="https://youtu.be/rn9aNVsABvc">
+  <img src="baat_unkahi.jpg" alt="sigh" width=250>
 </a>
 <p>
