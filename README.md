@@ -12,18 +12,6 @@
 - 🔭 I’m currently working on ***Agentic Search***.
 - 🌱 I’m currently learning ***GPU Programming***.
 - 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Research Internships*/ *Applied Scientist Internships*).
-- ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40 (?). Next up is <s>***Kyrgyzstan :mountain::racehorse:***</s> (I have put my travelling **on pause**, don't know if it will ever resume)!
+- ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40 (?). Next up is <s>***Kyrgyzstan :mountain::racehorse:***</s> (I have put my travelling **on pause**, don't know when it will resume)!
 - 💬 <s>Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 </s> Don't ask me about anything. 
-
-## 📈 ***GitHub Stats***
-
-
-<p align="center">
-<a align="left" href="https://github.com/zarif98sjs">
-<img alt="zarif98sjs's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=zarif98sjs&show_icons=true&count_private=true&theme=algolia&hide_border=true" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/zarif98sjs">
-<img alt="zarif98sjs's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif98sjs&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
-</p>
 
