@@ -20,10 +20,10 @@
 :notes:
 <br/>
 <br/>
-<a href="https://youtu.be/Xofo8H4O5N8?list=RDXofo8H4O5N8">
-  <img src="mujhe_tum_najar_se.png" alt="sigh" width=400>
+<a href="https://youtu.be/Xofo8H4O5N8">
+  <img src="mujhe_tum_nazar_se.jpg" alt="sigh" width=300>
 </a>
- <a href="https://youtu.be/ZUQoFmTUw08?list=RDXofo8H4O5N8">
-  <img src="bhool.png" alt="sigh" width=300>
+ <a href="https://youtu.be/ZUQoFmTUw08">
+  <img src="bhool.jpg" alt="sigh" width=300>
 </a>
 <p>
