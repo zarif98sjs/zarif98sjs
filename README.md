@@ -13,10 +13,17 @@
 - 🌱 I’m currently learning ***GPU Programming***.
 - 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Research Scientist Internships*).
 - ⚡ Fun Fact : I love ***teaching*** and ***traveling***, my plan is to travel the whole world within 40 (?). Next up is <s>***Kyrgyzstan :mountain::racehorse:***</s> (I have put my travelling **on pause**, don't know when it will resume)!
-- 💬 <s>Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 </s> Don't ask me about anything. Listen to this:
+- 💬 <s>Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 </s> Don't ask me about anything.
+
 
 <p align="center">
+:notes:
+<br/>
+<br/>
 <a href="https://youtu.be/Xofo8H4O5N8?list=RDXofo8H4O5N8">
   <img src="mujhe_tum_najar_se.png" alt="sigh" width=400>
+</a>
+ <a href="https://youtu.be/ZUQoFmTUw08?list=RDXofo8H4O5N8">
+  <img src="bhool.png" alt="sigh" width=300>
 </a>
 <p>
