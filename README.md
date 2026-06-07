@@ -11,5 +11,5 @@
 
 - 🔭 I’m currently working on ***Agentic Search***.
 - 🌱 I’m currently learning ***GPU Programming***.
-- ⚡ Fun Fact : I love ***traveling***, my plan is to travel the whole world within <s>40</s> (?). Next up is <s>***Uzbekistan & Kyrgyzstan :mountain:***</s> (*Sadly, I have put my travelling **on pause**, don't know when it will resume* :( ))!
+- ⚡ Fun Fact : I love ***traveling***, my plan is to travel the whole world within <s>40</s> (?). Next up is <s>***Uzbekistan & Kyrgyzstan :mountain: !***</s> (*Sadly, I have put my travelling **on pause**, don't know when it will resume* :( )
 - 💬 <s>Ask me about anything related/not related to my work that interests you. Reach me via [***mail***](mailto:zarif98sjs@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/zarif98sjs/) 🔗 </s> Don't ask me anything.
