@@ -5,6 +5,8 @@
 ![Women killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Women%20killed&query=$.gaza.killed.women&color=black)
 ![Journalists killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Journalists%20killed&query=$.gaza.killed.press&color=black)
 
+[Save a Child's Life](https://www.youtube.com/watch?v=40LcIZKsp18)
+
 ~ Hello good hooman 👋
 
  I’m Zarif, currently a CS PhD student at the [CIIR](https://ciir.cs.umass.edu/) lab, [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by Prof. [Hamed Zamani](https://groups.cs.umass.edu/zamani/).
