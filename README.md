@@ -5,7 +5,7 @@
 ![Women killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Women%20killed&query=$.gaza.killed.women&color=black)
 ![Journalists killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Journalists%20killed&query=$.gaza.killed.press&color=black)
 
-[Save a Child's Life](https://www.youtube.com/watch?v=40LcIZKsp18)
+[Save a Child's Life](https://zarif98sjs.github.io/donate/)
 
 ~ Hello good hooman 👋
 
